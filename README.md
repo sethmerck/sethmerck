@@ -3,23 +3,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sethmerck&label=Profile%20views&color=0e75b6&style=flat" alt="sethmerck" /> </p>
 
-- 🔭 I’m currently working on [Numot the Nummy Data Analytics](https://scrapetube.netlify.app/)
+- 🔭 I’m currently working on [Numot the Nummy Data Analytics](https://scrapetube.netlify.app/).
 
-- 🌱 I’m currently learning **scikit-learn, MySQL, MongoDB**
+- 🌱 I’m currently learning **scikit-learn, MySQL, MongoDB**.
 
-- 👯 I’m looking to collaborate on **data analysis projects**
+- 👯 I’m looking to collaborate on **data analysis projects**.
 
-- 🤝 I’m looking for help with **machine learning applications**
+- 🤝 I’m looking for help with **machine learning applications**.
 
-- 👨‍💻 All of my projects are available at [sethmerck.netlify.app](sethmerck.netlify.app)
+- 👨‍💻 All of my projects are available at [sethmerck.netlify.app](sethmerck.netlify.app).
 
-- 📝 Reach out to me at [twitter.com/sethmerck](twitter.com/sethmerck)
+- 📝 Reach out to me at [twitter.com/sethmerck](twitter.com/sethmerck).
 
-- 💬 Ask me about **webscraping with BeautifulSoup and Selenium**
+- 💬 Ask me about **webscraping with BeautifulSoup and Selenium**.
 
-- 📫 How to reach me **sethnmerck@gmail.com**
-
-- ⚡ Fun fact **I love picking the banjo**
+- ⚡ Fun fact about myself - **I love picking the banjo**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
