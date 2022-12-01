@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **webscraping with BeautifulSoup and Selenium**.
 
-- ⚡ Fun fact about myself - **我會說中文**.
+- ⚡ Fun fact about myself - 【**我會說中文**】（https://translate.google.com/?sl=auto&tl=en&text=%E6%88%91%E6%9C%83%E8%AA%AA%E4%B8%AD%E6%96%87&op=translate）.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
