@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **webscraping with BeautifulSoup and Selenium**.
 
-- ⚡ Fun fact about myself - **I love picking the banjo**.
+- ⚡ Fun fact about myself - **我會說中文**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
