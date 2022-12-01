@@ -11,9 +11,9 @@
 
 - 🤝 I’m looking for help with **machine learning applications**.
 
-- 👨‍💻 All of my projects are available at [sethmerck.netlify.app](sethmerck.netlify.app).
+- 👨‍💻 All of my projects are available at [sethmerck.netlify.app](https://sethmerck.netlify.app).
 
-- 📝 Reach out to me at [twitter.com/sethmerck](twitter.com/sethmerck).
+- 📝 Reach out to me at [twitter.com/sethmerck](https://twitter.com/sethmerck).
 
 - 💬 Ask me about **webscraping with BeautifulSoup and Selenium**.
 
