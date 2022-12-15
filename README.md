@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sethmerck&label=Profile%20views&color=0e75b6&style=flat" alt="sethmerck" /> </p>
 
-- 🔭 I’m currently working on [Numot the Nummy Data Analytics](https://scrapetube.netlify.app/) and [Teach Me Grappling Analytics](https://github.com/sethmerck/Teach-Me-Grappling-Analytics).
+- 🔭 I’m currently working on [Numot the Nummy Data Analytics](https://scrapetube.netlify.app/) and [Teach Me Grappling Data Analytics](https://github.com/sethmerck/Teach-Me-Grappling-Analytics).
 
 - 🌱 I’m currently learning **scikit-learn, MySQL, MongoDB**.
 
