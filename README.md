@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Numot the Nummy Data Analytics](https://scrapetube.netlify.app/) and [Teach Me Grappling Data Analytics](https://github.com/sethmerck/Teach-Me-Grappling-Analytics).
 
-- 🌱 I’m currently learning **scikit-learn, MySQL, MongoDB**.
+- 🌱 I’m currently learning **scikit-learn, MySQL, Tableau**.
 
 - 👯 I’m looking to collaborate on **data analysis projects**.
 
