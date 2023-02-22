@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **scikit-learn, MySQL, Tableau**.
 
-- 👯 I’m looking to collaborate on **data analysis projects**.
+- 👯 I’m looking to collaborate on **data driven projects**.
 
 - 🤝 I’m looking for help with **machine learning applications**.
 
