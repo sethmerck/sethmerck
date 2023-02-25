@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Teach Me Grappling Data Analytics](https://github.com/sethmerck/Teach-Me-Grappling-Analytics).
 
-- 🌱 I’m currently learning **scikit-learn, MySQL, Tableau**.
+- 🌱 I’m currently learning **scikit-learn, Power BI**.
 
 - 👯 I’m looking to collaborate on **data driven projects**.
 
