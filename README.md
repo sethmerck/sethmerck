@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **machine learning applications**.
 
-- 👨‍💻 All of my projects are available at [sethmerck.netlify.app](https://sethmerck.netlify.app).
+- 👨‍💻 My projects are available at [sethmerck.netlify.app](https://sethmerck.netlify.app).
 
 - 📝 Reach out to me at [linkedin.com/in/sethmerck](https://www.linkedin.com/in/sethmerck/).
 
