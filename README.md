@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Teach Me Grappling Data Analytics](https://github.com/sethmerck/Teach-Me-Grappling-Analytics) and various private projects.
 
-- 🌱 I’m currently learning **Microsoft Power BI, Classification with Machine Learning**.
+- 🌱 I’m currently learning **Power BI, Classification with Machine Learning**.
 
 - 👯 I’m looking to collaborate on **data driven projects**.
 
