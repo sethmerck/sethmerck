@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sethmerck&label=Profile%20views&color=0e75b6&style=flat" alt="sethmerck" /> </p>
 
-- 🔭 I’m currently working on product classification with machine learning.
+- 🔭 I’m currently working on product classification using machine learning.
 
 - 🌱 I’m currently learning **Power BI**.
 
