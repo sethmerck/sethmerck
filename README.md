@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on product classification using machine learning.
 
-- 🌱 I’m currently learning **streamlit and PyTorch**.
+- 🌱 I’m currently learning **Streamlit and PyTorch**.
 
-- 👯 I’m looking to collaborate on **data driven projects**.
+- 👯 I’m looking to collaborate on **machine learning projects**.
 
 - 👨‍💻 My projects are available at [sethmerck.netlify.app](https://sethmerck.netlify.app).
 
