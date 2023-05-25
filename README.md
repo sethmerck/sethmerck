@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on product classification using machine learning.
 
-- 🌱 I’m currently learning **Power BI**.
+- 🌱 I’m currently learning **streamlit and PyTorch**.
 
 - 👯 I’m looking to collaborate on **data driven projects**.
 
