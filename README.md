@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **web scraping with Python**.
 
-- ⚡ Fun fact about me - <a href="https://linkedin.com/in/sethmerck" title="LinkedIn" target="blank"></a>
+- ⚡ Fun fact about me - <a href="https://linkedin.com/in/sethmerck" title="LinkedIn" target="blank">L</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
