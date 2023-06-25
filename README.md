@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **machine learning projects**.
 
-- 👨‍💻 My projects are available at [sethmerck.netlify.app](https://sethmerck.netlify.app).
+- 👨‍💻 My projects are available at <a href="https://sethmerck.netlify.app" title="My portfolio" target="blank">sethmerck.netlify.app</a>
 
 - 📝 Reach out to me at [linkedin.com/in/sethmerck](https://www.linkedin.com/in/sethmerck/).
 
