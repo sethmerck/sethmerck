@@ -11,7 +11,7 @@
 
 - 👨‍💻 My projects are available at <a href="https://sethmerck.netlify.app" title="My portfolio" target="blank">sethmerck.netlify.app</a>
 
-- 📝 Reach out to me at [linkedin.com/in/sethmerck](https://www.linkedin.com/in/sethmerck/).
+- 📝 Reach out to me at <a href="https://www.linkedin.com/in/sethmerck/" title="My LinkedIn" target="blank">linkedin.com/in/sethmerck</a>
 
 - 💬 Ask me about **web scraping with Python**.
 
