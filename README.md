@@ -9,9 +9,9 @@
 
 - 👯 I’m looking to collaborate on **machine learning projects**.
 
-- 👨‍💻 My projects are available at <a href="https://sethmerck.netlify.app" title="My portfolio" target="blank" rel="noopener noreferrer">sethmerck.netlify.app</a>
+- 👨‍💻 My projects are available at <a href="https://sethmerck.netlify.app" title="My portfolio" target="_blank" rel="noopener noreferrer">sethmerck.netlify.app</a>
 
-- 📝 Reach out to me at <a href="https://www.linkedin.com/in/sethmerck/" title="My LinkedIn" target="blank">linkedin.com/in/sethmerck</a>
+- 📝 Reach out to me at <a href="https://www.linkedin.com/in/sethmerck/" title="My LinkedIn" target="_blank" rel="noopener noreferrer">linkedin.com/in/sethmerck</a>
 
 - 💬 Ask me about **web scraping with Python**.
 
