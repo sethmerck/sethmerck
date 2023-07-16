@@ -9,17 +9,17 @@
 
 - 👯 I’m looking to collaborate on **machine learning projects**.
 
-- 👨‍💻 My projects are available at <a href="https://sethmerck.netlify.app" target="_blank" rel="noopener noreferrer" title="My portfolio">sethmerck.netlify.app</a>
+- 👨‍💻 My projects are available at <a href="https://sethmerck.netlify.app" title="My portfolio">sethmerck.netlify.app</a>
 
-- 📝 Reach out to me at <a href="https://www.linkedin.com/in/sethmerck/" title="My LinkedIn" target="_blank" rel="noopener noreferrer">linkedin.com/in/sethmerck</a>
+- 📝 Reach out to me at <a href="https://www.linkedin.com/in/sethmerck/" title="My LinkedIn">linkedin.com/in/sethmerck</a>
 
 - 💬 Ask me about **web scraping with Python**.
 
-- ⚡ Fun fact about me - <a href="https://translate.google.com/?sl=auto&tl=en&text=%E6%88%91%E6%9C%83%E8%AA%AA%E4%B8%AD%E6%96%87&op=translate" title="I can speak Chinese." target="blank">我會説中文。</a>
+- ⚡ Fun fact about me - <a href="https://translate.google.com/?sl=auto&tl=en&text=%E6%88%91%E6%9C%83%E8%AA%AA%E4%B8%AD%E6%96%87&op=translate" title="I can speak Chinese.">我會説中文。</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sethmerck" title="LinkedIn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sethmerck" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sethmerck" title="LinkedIn"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sethmerck" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Some of my skills:</h3>
