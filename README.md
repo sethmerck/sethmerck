@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **machine learning projects**.
 
-- 👨‍💻 My projects are available at <a href="https://sethmerck.netlify.app" title="My portfolio">sethmerck.netlify.app</a>, <a href="https://public.tableau.com/app/profile/sethmerck" title="My Tableau Public Profile">public.tableau.com/app/profile/sethmerck</a>, and here on GitHub. 
+- 👨‍💻 My projects are available on <a href="https://sethmerck.netlify.app" title="https://sethmerck.netlify.app">My portfolio site</a>, <a href="https://public.tableau.com/app/profile/sethmerck" title="https://public.tableau.com/app/profile/sethmerck">My Tableau Public profile</a>, and here on GitHub. 
 
 - 📝 Reach out to me at <a href="https://www.linkedin.com/in/sethmerck/" title="My LinkedIn">linkedin.com/in/sethmerck</a>.
 
