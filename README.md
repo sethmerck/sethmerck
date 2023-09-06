@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning how to **more about version control**.
 
-- 👯 I’m looking to collaborate on **machine learning projects**.
-
 - 👨‍💻 My projects are available here on GitHub, <a href="https://sethmerck.netlify.app" title="https://sethmerck.netlify.app">my portfolio site</a>, and <a href="https://public.tableau.com/app/profile/sethmerck" title="https://public.tableau.com/app/profile/sethmerck">my Tableau Public profile</a>. 
 
 - 📝 Reach out to me at <a href="https://www.linkedin.com/in/sethmerck/" title="My LinkedIn">linkedin.com/in/sethmerck</a>.
