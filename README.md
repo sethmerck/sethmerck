@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sethmerck&label=Profile%20views&color=0e75b6&style=flat" alt="sethmerck" title='Mostly from me' /> </p>
 
-- 🔭 I’m currently working on creating an automated data pipeline.
+- 🔭 I’m currently working on creating an automated data pipeline using GitHub Actions.
 
-- 🌱 I’m currently learning how to **automate projects with GitHub Actions and cloud computing**.
+- 🌱 I’m currently learning how to **more about version control**.
 
 - 👯 I’m looking to collaborate on **machine learning projects**.
 
