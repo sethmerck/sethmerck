@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on creating an automated data pipeline using GitHub Actions, here's the <a href="https://github.com/sethmerck/Used_Cars_in_GA" title="https://github.com/sethmerck/Used_Cars_in_GA">repo</a>.
 
-- 🌱 I’m currently learning **more about version control**.
+- 🌱 I’m currently learning more about version control.
 
 - 👨‍💻 My projects are available here on GitHub, <a href="https://sethmerck.netlify.app" title="https://sethmerck.netlify.app">my portfolio site</a>, and <a href="https://public.tableau.com/app/profile/sethmerck" title="https://public.tableau.com/app/profile/sethmerck">my Tableau Public profile</a>. 
 
 - 📝 Reach out to me at <a href="https://www.linkedin.com/in/sethmerck/" title="My LinkedIn">linkedin.com/in/sethmerck</a>.
 
-- 💬 Ask me about **web scraping with Python**.
+- 💬 Ask me about web scraping with Python.
 
 - ⚡ Fun fact about me - <a href="https://translate.google.com/?sl=auto&tl=en&text=%E6%88%91%E6%9C%83%E8%AA%AA%E4%B8%AD%E6%96%87&op=translate" title="I can speak Chinese.">我會説中文。</a>
 
