@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on creating an automated data pipeline using Python and GitHub Actions, here's the <a href="https://github.com/sethmerck/Used_Cars_in_GA" title="https://github.com/sethmerck/Used_Cars_in_GA">repo</a>.
 
-- 🌱 I’m currently learning more about version control.
+- 🌱 I’m currently learning more about SAS.
 
 - 👨‍💻 My projects are available here on GitHub, <a href="https://sethmerck.netlify.app" title="https://sethmerck.netlify.app">my portfolio site</a>, and <a href="https://public.tableau.com/app/profile/sethmerck" title="https://public.tableau.com/app/profile/sethmerck">my Tableau Public profile</a>. 
 
