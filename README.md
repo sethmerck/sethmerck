@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sethmerck&label=Profile%20views&color=0e75b6&style=flat" alt="sethmerck" title='Mostly from me' /> </p>
 
-- 🔭 I’m currently working on creating an automated data pipeline using GitHub Actions, here's the <a href="https://github.com/sethmerck/Used_Cars_in_GA" title="https://github.com/sethmerck/Used_Cars_in_GA">repo</a>.
+- 🔭 I’m currently working on creating an automated data pipeline using Python and GitHub Actions, here's the <a href="https://github.com/sethmerck/Used_Cars_in_GA" title="https://github.com/sethmerck/Used_Cars_in_GA">repo</a>.
 
 - 🌱 I’m currently learning more about version control.
 
