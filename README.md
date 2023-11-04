@@ -1,4 +1,4 @@
-<h1 align="center">Hello There 👋, I'm Seth!</h1>
+<h1 align="center">Hello 👋, I'm Seth!</h1>
 <h3 align="center">Data Professional From The US</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sethmerck&label=Profile%20views&color=0e75b6&style=flat" alt="sethmerck" title='Mostly from me' /> </p>
