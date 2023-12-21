@@ -13,7 +13,7 @@
 
 - 💬 Ask me about web scraping with Python.
 
-- ⚡ Fun fact - <a href="https://translate.google.com/?sl=auto&tl=en&text=%E6%88%91%E6%9C%83%E8%AA%AA%E4%B8%AD%E6%96%87&op=translate" title="I can speak Chinese.">我會説中文。</a>
+- ⚡ Fun fact about me - <a href="https://translate.google.com/?sl=auto&tl=en&text=%E6%88%91%E6%9C%83%E8%AA%AA%E4%B8%AD%E6%96%87&op=translate" title="I can speak Chinese.">我會説中文。</a>
 
 <h3 align="left">Connect:</h3>
 <p align="left">
